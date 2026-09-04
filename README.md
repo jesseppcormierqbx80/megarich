@@ -1,2 +1,0 @@
-# megarich
-megarich site
